@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OilControl/static/css/main.59b6b984.css",
+    "main.js": "/OilControl/static/js/main.309e1536.js",
+    "index.html": "/OilControl/index.html",
+    "main.59b6b984.css.map": "/OilControl/static/css/main.59b6b984.css.map",
+    "main.309e1536.js.map": "/OilControl/static/js/main.309e1536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b6b984.css",
+    "static/js/main.309e1536.js"
+  ]
+}
